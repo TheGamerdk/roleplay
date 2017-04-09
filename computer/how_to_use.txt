@@ -1,0 +1,2 @@
+run start.bat (code is not malicous, run it through anti-virus if you still dont trust us :heart:)
+More instructions later
