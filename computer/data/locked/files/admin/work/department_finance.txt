@@ -1,0 +1,12 @@
+Income:
+contract_us_gov_iran: 11.736.378$
+railgun_china: 17.382.958$
+weapon_supplies_europe: 6.258.902$
+company_supply: 11.466.147$
+total: 46.844.388$
+
+Expenses:
+project_stand_alone: 42.838.251$
+weapon_dev: 4.000.000$
+
+Profit: 6.137$

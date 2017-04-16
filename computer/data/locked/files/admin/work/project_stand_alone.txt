@@ -1,0 +1,6 @@
+document_age: 438 days (1 year, 73 days)
+first_test:
+subject: mice
+amount: 10
+kill_procentage: 68%
+comments: kill_procentage is still too low. Further development should bring it up to about 99% or more

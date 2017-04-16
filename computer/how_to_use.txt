@@ -1,2 +1,2 @@
 run start.bat (code is not malicous, run it through anti-virus if you still dont trust us :heart:)
-More instructions later
+You should not be going to any folders other than "bin" unless something in the game tells you to!

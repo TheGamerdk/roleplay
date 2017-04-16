@@ -1,0 +1,8 @@
+receiver: all@mail.ernietech.com
+subject: Security Changes
+message_body: Now that we have started more "sensitive" work, we demand that all copies of work
+be deleted on employee computers. If you need to use the documents, edit the directly on the data server.
+You should require login to access emails and documents. Ask an IT member for help if you dont know how to make everything private
+------------------------------------------------------------------------------------------------------------
+
+NO FURTHER REPLIES
